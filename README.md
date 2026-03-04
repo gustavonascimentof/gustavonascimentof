@@ -31,6 +31,15 @@ My goal is to become a highly skilled software engineer capable of building robu
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavonascimentof&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonascimentof&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 📫 Contact
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
