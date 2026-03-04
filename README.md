@@ -1,26 +1,53 @@
-## Hi there 👋
+# Gustavo Nascimento
 
-<div>
-    <a href="https://github.com/gustavonascimentof">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?gustavonascimentof&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?gustavonascimentof&layout=compact&langs_count=16&theme=dark"/>
-</div>
+## Backend Developer in Formation
 
-##
+Computer Engineering student focused on backend development, software architecture and scalable systems.
+
+I have experience with Python, Java and C, and I am currently building strong foundations in backend engineering using modern technologies and best practices.
+
+My goal is to become a highly skilled software engineer capable of building robust and scalable systems for the global market.
+
+---
+
 ### 🔧 Tech Stack
 
 **Languages**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-</div>
+- Python
+- Java
+- C
 
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-  ##
- 
-<div> 
-  <a href = "mailto:gustavofnascimento.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-do-nascimento-ferreira-5568831bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+**Backend**
+- REST APIs
+- FastAPI (currently learning & building projects)
+
+**Databases**
+- SQL
+- PostgreSQL (in progress)
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+### 🚀 Current Focus
+
+- Backend development with Python
+- API design and architecture
+- Clean Code principles
+- Software engineering fundamentals
+
+---
+
+### 📈 Long-Term Vision
+
+To work as a backend/software engineer on international-level projects, building scalable and well-structured systems.
+
+---
+
+### 📫 Contact
+
+- LinkedIn: (add your LinkedIn link here once updated)
+- Email: (professional email)
