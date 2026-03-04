@@ -52,4 +52,4 @@ My goal is to become a highly skilled software engineer capable of building robu
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> It's about building solutions that scale and generate real value."_
